@@ -8,11 +8,5 @@ target/
 .classpath
 .idea
 .project
-/data/
-/servlet-map/data/
 transport.log
 *pom.xml.versionsBackup
-/standalone-jetty/dist/public/oskari
-/standalone-jetty/dist/public/Oskari
-/standalone-jetty/dist/*.jar
-/bin/
