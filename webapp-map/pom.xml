@@ -43,6 +43,27 @@
             <version>${oskari.version}</version>
         </dependency>
 
+        <!-- support for user registration -->
+        <dependency>
+            <groupId>fi.nls.oskari.service</groupId>
+            <artifactId>oskari-control-users</artifactId>
+            <version>${oskari.version}</version>
+        </dependency>
+
+        <!-- support for myplaces functionality -->
+        <dependency>
+            <groupId>fi.nls.oskari.service</groupId>
+            <artifactId>oskari-control-myplaces</artifactId>
+            <version>${oskari.version}</version>
+        </dependency>
+
+        <!-- admin routes -->
+        <dependency>
+            <groupId>fi.nls.oskari.service</groupId>
+            <artifactId>oskari-control-admin</artifactId>
+            <version>${oskari.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>fi.nls.oskari</groupId>
             <artifactId>servlet-map</artifactId>

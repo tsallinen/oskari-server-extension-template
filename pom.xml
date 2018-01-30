@@ -10,16 +10,16 @@
     <name>My Oskari applications</name>
 
     <properties>
-        <oskari.version>1.41.0</oskari.version>
+        <oskari.version>1.45.0</oskari.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
 
         <commons-dbcp2.version>2.0.1</commons-dbcp2.version>
-        <postgresql.version>9.3-1102-jdbc41</postgresql.version>
+        <postgresql.version>42.1.4</postgresql.version>
         <junit.version>4.11</junit.version>
         <slf4j.version>1.7.12</slf4j.version>
-		<jackson.version>1.9.11</jackson.version>
+        <jackson.version>2.9.0</jackson.version>
     </properties>
 
     <repositories>
