@@ -57,6 +57,14 @@
             <version>${oskari.version}</version>
         </dependency>
 
+        <!-- support for userlayer functionality -->
+        <dependency>
+            <groupId>org.oskari</groupId>
+            <artifactId>control-userlayer</artifactId>
+            <version>${oskari.version}</version>
+        </dependency>
+
+
         <!-- admin routes -->
         <dependency>
             <groupId>fi.nls.oskari.service</groupId>
