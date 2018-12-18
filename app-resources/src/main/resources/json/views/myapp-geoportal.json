@@ -54,6 +54,7 @@
       }
     },
     { "id" : "divmanazer" },
+    { "id" : "drawtools" },
     { "id" : "toolbar" },
     { "id" : "infobox" },
     { "id" : "statehandler" },
