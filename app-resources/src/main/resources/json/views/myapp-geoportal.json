@@ -6,7 +6,7 @@
   "onlyUuid" : false,
   "oskari" : {
     "application" : "servlet",
-    "page" : "index",
+    "page" : "myapp",
     "development_prefix" : "/applications/sample"
   },
   "selectedLayers" : ["wmslayer-openstreetmap-fi.json"],
