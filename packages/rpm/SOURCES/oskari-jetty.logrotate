@@ -1,0 +1,9 @@
+/var/log/jetty/*log {
+    copytruncate
+    daily
+    rotate 365
+    compress
+    missingok
+    su jetty jetty
+    create 0644 jetty jetty
+}

@@ -68,6 +68,7 @@
         <module>server-extension</module>
         <module>webapp-map</module>
         <module>webapp-transport</module>
+        <module>oskari-jetty</module>
     </modules>
 
 </project>

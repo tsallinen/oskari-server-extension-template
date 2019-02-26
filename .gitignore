@@ -10,3 +10,8 @@ target/
 .project
 transport.log
 *pom.xml.versionsBackup
+dev.properties
+packages/rpm/RPMS
+packages/rpm/SRPMS
+packages/rpm/BUILD
+packages/rpm/BUILDROOT

@@ -1,0 +1,7 @@
+JAVA_OPTIONS="-Xmx1024M -Djava.io.tmpdir=/var/cache/jetty/temp"
+
+JETTY_PORT=8080
+
+JETTY_CLASSPATH=/usr/share/jetty/resources
+OSKARI_WEBAPP=/var/lib/jetty/webapps/oskari-map
+TRANSPORT_WEBAPP=/var/lib/jetty/webapps/transport
