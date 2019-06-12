@@ -1,3 +1,7 @@
+# Note! This template will be removed on the release of 1.53.0 Oskari.
+
+Use https://github.com/oskariorg/sample-server-extension instead (Doesn't work with 1.52.0 as both have flyway module named "example").
+
 # oskari-server-extension-template
 
 This is a template for extending oskari-server functionality using Maven.
